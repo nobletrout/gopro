@@ -17,8 +17,8 @@ microSD card inserted and the cable to connect it to your computer.
     
   * Copy the contents of the folder and paste its content to the root folder of
     your GoPro?s microSD card.
-        Hero 3+: Paste the whole ?UPDATE? folder to your GoPro?s root folder.
-        The files must be in a folder with the name ?UPDATE?, otherwise it won?t
+        Hero 3+: Paste the whole "UPDATE" folder to your GoPro's root folder.
+        The files must be in a folder with the name "UPDATE", otherwise it won?t
         work.
         
         Hero 3: Paste only the files, not the folder, to the root directory of
